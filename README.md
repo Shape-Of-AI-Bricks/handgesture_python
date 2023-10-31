@@ -1,8 +1,11 @@
 # Hand-Gesture-using-Machine-Learning
 
-https://github.com/shiva201/Hand-Gesture-using-Machine-Learning.git
+github: https://github.com/Shape-Of-AI-Bricks/handgesture_python.git
 
-:
+colab : https://colab.research.google.com/drive/1j1ZDKEIhay91vLWJh4a71Ul3UK3YxKHx?usp=sharing
+
+
+
 
 Real-time Gesture Recognition:
 GestureRecogAI utilizes a combination of deep learning and computer vision techniques to recognize hand gestures in real-time. The system employs a camera or sensor to capture the hand movements, and the data is instantly processed by the machine learning model, providing instant and precise recognition.
